@@ -9,7 +9,7 @@ dateCreated: 2022-10-07T18:53:24.696Z
 ---
 
 # Supporter
-![supporter_frog.png](/supporter_frog.png)
+![supporter_frog.png](/assets/wiki/supporter_frog.png)
 The `supporter` rank is a temporary / reoccuring rank you get for voting on VelvetMC!
 
 ## Activating
@@ -31,7 +31,7 @@ We also might give out a variable amount of supporter credit (extension of your 
 ## Supporter Status
 Supporter Status (displayed on the <kbd>TAB</kbd> menu) shows the amount of time remaining until you lose supporter, and will have to activate again to keep the benefits.
 
-![supporter_status.png](/supporter_status.png)
+![supporter_status.png](/assets/wiki/supporter_status.png)
 
 If you do not currently have an active supporter rank it will display `Expired!`
-![supporter_status_expired.png](/supporter_status_expired.png)
+![supporter_status_expired.png](/assets/wiki/supporter_status_expired.png)
