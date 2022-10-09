@@ -30,20 +30,20 @@ VelvetMC is open to the public without having to submit any forms or anything of
 You can join us on **mc.velvet.moe** on the latest major version of Minecraft.
 
 When you join for the first time, you will be greeted with a message very similar to this:
-![link_account.png](/link_account.png)
+![link_account.png](/assets/wiki/link_account.png)
 
 ---
 
 Join the [Discord](https://velvet.moe/discord) server, and send a message to the bot by right-clicking on it, and then selecting `Message`. 
-![link_account_discord_arrow.png](/link_account_discord_arrow.png)
+![link_account_discord_arrow.png](/assets/wiki/link_account_discord_arrow.png)
 
 ---
 
 Send the bot your four-digit code as seen below: 
-![link_account_code.png](/link_account_code.png)
+![link_account_code.png](/assets/wiki/link_account_code.png)
 
 > You won't be able to message the bot if your server privacy settings has direct messages disabled! 
-![link_account_error.png](/link_account_error.png)
+![link_account_error.png](/assets/wiki/link_account_error.png)
 {.is-warning}
 
 

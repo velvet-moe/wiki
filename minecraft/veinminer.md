@@ -12,7 +12,7 @@ dateCreated: 2022-10-07T18:24:32.167Z
 > This feature is a [supporter perk](/minecraft/supporter-status)!
 {.is-info}
 
-![veinminer.gif](/veinminer.gif)
+![veinminer.gif](/assets/wiki/veinminer.gif)
 
 ## What is VeinMiner
 VeinMiner (or you might know it as [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)) is our server-side implementation of the mod, allowing you to mine multiple ores and other resources at once (given the valid tool).
