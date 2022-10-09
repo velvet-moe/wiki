@@ -10,7 +10,7 @@ You can find the production instance of the wiki at [velvet.wiki](https://velvet
 If you'd like to contribute to the wiki, you can do so by forking this repository and submitting a pull request, please make sure to follow the guidelines below.
 
 ### 📜 Guidelines
-- **Do not submit pull requests for changes directly to the `prod` branch**, instead submit them to the `dev` branch. We will merge them into `prod` when we are ready to deploy.
+- Always create a pull request for your changes, even if you have write access to the repository.
 - If you are adding a new page, ensure the proper metadata is added to the top of the file. You can copy the metadata from an existing page and modify it to fit your needs.
 - Ensure that your changes are valid markdown, and that they do not break the build.
 - Check your spelling and grammar, and ensure that your changes are coherent and make sense.
