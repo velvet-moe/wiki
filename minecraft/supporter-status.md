@@ -2,7 +2,7 @@
 title: Supporter Status
 description: Our networks way of rewarding players without making everything pay-to-win!
 published: true
-date: 2022-10-09T18:53:59.350Z
+date: 2022-10-18T01:40:18.070Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-07T18:53:24.696Z
@@ -26,7 +26,7 @@ We also might give out a variable amount of supporter credit (extension of your 
 - HeadDB access
 - Jukebox
 - Chat-color and formatting
-- Other cool [commands](/home)!
+- Other cool [commands](/minecraft/commands)!
 
 ## Supporter Status
 Supporter Status (displayed on the <kbd>TAB</kbd> menu) shows the amount of time remaining until you lose supporter, and will have to activate again to keep the benefits.
