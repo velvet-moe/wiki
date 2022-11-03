@@ -1,8 +1,8 @@
 ---
-title: VelvetMC: The Fruitful Update!
+title: VelvetMC: The Fruitiful Update!
 description: 
 published: true
-date: 2022-11-03T14:17:01.779Z
+date: 2022-11-03T14:18:48.709Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T22:08:22.485Z
@@ -31,7 +31,7 @@ You heard that correctly, we have added full-fledged seasons to VelvetMC!
 ![seasons.png](/assets/seasons.png)
 
 ## [Shop](/minecraft/shop)
-A shop has finally been added, along with an entire economy and stock market accessible with `/shop`
+A shop has finally been added, alongside an entire economy and stock market accessible with `/shop`
 ![shop.png](/assets/shop.png)
 
 ## [Villagers](/minecraft/villagers)
