@@ -2,13 +2,13 @@
 title: VelvetMC: The Fruitful Update!
 description: 
 published: true
-date: 2022-11-02T23:42:51.541Z
+date: 2022-11-03T14:17:01.779Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T22:08:22.485Z
 ---
 
-# Fruitful!
+# Fruitiful!
 ![fruitful.png](/assets/fruitful.png)
 
 Hey everyone! We hope you had an amazing Spooktober, and welcome to the start of November!
